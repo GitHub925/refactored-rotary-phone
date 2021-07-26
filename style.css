@@ -1,0 +1,32 @@
+.doonkelberry{
+    width: 100%;
+    margin:0px;
+    text-shadow: 3px 3px green;
+    font-size: 30px;
+    font-family: fantasy;
+    color: blue
+}
+
+body{
+    font-family: fantasy;
+    background-image: linear-gradient(darkorchid, deeppink, black)
+}
+
+.doonkelberries{
+    float: none;
+}
+
+.footiepajamas{
+    position: fixed;
+    color: pink;
+    background-image: linear-gradient(to right, crimson, black);
+    bottom: 0;
+    width: 100%
+}
+
+canvas{
+    border-width: 8px;
+    border-color:deepskyblue;
+    border-style:ridge;
+    text-align: center;
+}
